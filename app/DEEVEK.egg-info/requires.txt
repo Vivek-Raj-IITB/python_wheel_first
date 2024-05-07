@@ -1,0 +1,6 @@
+bson>=0.5.10
+
+[dev]
+curses-2048
+pytest>=7.0
+twine>=4.0.2

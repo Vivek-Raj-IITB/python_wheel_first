@@ -1,0 +1,11 @@
+LICENSE
+README.md
+setup.py
+app/DEEVEK.egg-info/PKG-INFO
+app/DEEVEK.egg-info/SOURCES.txt
+app/DEEVEK.egg-info/dependency_links.txt
+app/DEEVEK.egg-info/requires.txt
+app/DEEVEK.egg-info/top_level.txt
+app/deevek_world/__init__.py
+app/deevek_world/src/__init__.py
+app/deevek_world/src/deevek_world.py
