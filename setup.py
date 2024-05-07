@@ -11,7 +11,7 @@ setup(
     packages=find_packages(where="app"),
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="h",
+    url="https://github.com/Vivek-Raj-IITB/python_wheel_first",
     author="Vivek Raj",
     author_email="vivekraj7571@gmail.com",
     license="MIT",
