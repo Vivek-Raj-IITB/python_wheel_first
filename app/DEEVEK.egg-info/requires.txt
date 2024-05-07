@@ -1,4 +1,3 @@
-bson>=0.5.10
 
 [dev]
 curses-2048
